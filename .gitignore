@@ -1,0 +1,8 @@
+# Rust artifacts
+target/
+
+# Generated files
+Cargo.lock
+
+# Rust toolchain
+rust-toolchain
